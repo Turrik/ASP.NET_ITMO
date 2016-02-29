@@ -10,6 +10,12 @@ namespace Task_1
     {
         static void Main(string[] args)
         {
+            
+        }
+
+        static int func(int x);
+        {
+            
         }
     }
 }
