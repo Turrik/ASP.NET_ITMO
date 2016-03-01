@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskP5", "TaskP5\TaskP5.csproj", "{542A7E1B-6372-4CA1-8780-AA55D913C75D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasksPascal", "TasksPascal\TasksPascal.csproj", "{6E0C70F6-B96E-41B5-81C0-BDA88EBA2ADD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{542A7E1B-6372-4CA1-8780-AA55D913C75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{542A7E1B-6372-4CA1-8780-AA55D913C75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{542A7E1B-6372-4CA1-8780-AA55D913C75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{542A7E1B-6372-4CA1-8780-AA55D913C75D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E0C70F6-B96E-41B5-81C0-BDA88EBA2ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E0C70F6-B96E-41B5-81C0-BDA88EBA2ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E0C70F6-B96E-41B5-81C0-BDA88EBA2ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E0C70F6-B96E-41B5-81C0-BDA88EBA2ADD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
