@@ -1,0 +1,24 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>_Layout</title>
+</head>
+<body>
+    <ul>
+        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+        <li>@Html.ActionLink("Favourite DJs", "FavouriteDJs", "Home")</li>
+        <li>@Html.ActionLink("About", "Info", "Another")</li>
+        <li>@Html.ActionLink("DoNotOpen", "DoNotOpen", "Another")</li>
+    </ul>
+<div>
+    @RenderBody();
+</div>
+</body>
+</html>

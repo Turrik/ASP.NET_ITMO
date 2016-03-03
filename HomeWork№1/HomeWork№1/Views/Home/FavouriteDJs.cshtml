@@ -1,0 +1,14 @@
+﻿ @model IEnumerable<HomeWork_1.Models.DJ>
+<div>
+    <ul>
+        @foreach (var DJ in Model)
+            {
+            <li>@("DJ: " + DJ.Name +"\n" +"' " + "Genre: " + DJ.Genre + "\n " + "; " + "Favourite Track: " + DJ.Favourite_track)</li>
+            }
+        <img src="~/Images/Axwell.png"  width="500" height="500"/>
+        <img src="~/Images/Shapov.jpg"  width="500" height="500" />
+
+    </ul>
+</div>
+
+
